@@ -1,0 +1,56 @@
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_tabs_dynamic&stacked=h                             //how to use tab control 
+
+
+
+Below code from html staff section==========================================================================================
+<!-- Container (Staff Section) -->
+<!-- <div id="staff" class="container-fluid text-center">
+    <h2>Our Staffs</h2>
+    <h4>Our Working Team</h4>
+    <br>
+    <div class="row slideanim">
+      <div class="col-sm-3">
+        <img src="images/beautiful.GIF" class="img-size img-thumbnail" alt="cute cat" class="img-thumbnail" />
+        <h4>POWER</h4>
+        <p>Lorem ipsum dolor sit amet..</p>
+      </div>
+      <div class="col-sm-3">
+        <img src="images/BLEW.GIF" class="img-size img-thumbnail" alt="cute cat" class="img-thumbnail" />
+        <h4>LOVE</h4>
+        <p>Lorem ipsum dolor sit amet..</p>
+      </div>
+      <div class="col-sm-3">
+        <img src="images/LOVE.GIF" class="img-size img-thumbnail" alt="cute cat" class="img-thumbnail" />
+        <h4>JOB DONE</h4>
+        <p>Lorem ipsum dolor sit amet..</p>
+      </div>
+      <div class="col-sm-3">
+        <img src="images/LOVEU.GIF" class="img-size img-thumbnail" alt="cute cat" class="img-thumbnail" />
+        <h4>JOB DONE</h4>
+        <p>Lorem ipsum dolor sit amet..</p>
+      </div>
+    </div>
+    <br><br>
+    <div class="row slideanim">
+      <div class="col-sm-3">
+        <span class="glyphicon glyphicon-leaf logo-small"></span>
+        <h4>GREEN</h4>
+        <p>Lorem ipsum dolor sit amet..</p>
+      </div>
+      <div class="col-sm-3">
+        <span class="glyphicon glyphicon-certificate logo-small"></span>
+        <h4>CERTIFIED</h4>
+        <p>Lorem ipsum dolor sit amet..</p>
+      </div>
+      <div class="col-sm-3">
+        <span class="glyphicon glyphicon-wrench logo-small"></span>
+        <h4 style="color:#303030;">HARD WORK</h4>
+        <p>Lorem ipsum dolor sit amet..</p>
+      </div>
+      <div class="col-sm-3">
+        <span class="glyphicon glyphicon-lock logo-small"></span>
+        <h4>JOB DONE</h4>
+        <p>Lorem ipsum dolor sit amet..</p>
+      </div>
+    </div>
+  </div> -->
