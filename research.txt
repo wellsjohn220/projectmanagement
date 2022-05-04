@@ -1,5 +1,8 @@
 https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_tabs_dynamic&stacked=h                             //how to use tab control 
 
+https://rindle.com/assets/imgs/blog/body-image-02.jpeg                                                          //image insert one
+https://thumbs.dreamstime.com/b/project-management-project-management-process-initiation-to-closure-100744820.jpg
+https://www.spps.org/cms/lib/MN01910242/Centricity/Domain/14130/Test%20Picture%20v5.png
 
 
 Below code from html staff section==========================================================================================
